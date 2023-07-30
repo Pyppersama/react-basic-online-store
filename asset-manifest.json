@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/react-basic-online-store/static/css/main.5023703f.css",
+    "main.js": "/github.io/react-basic-online-store/static/js/main.10d05d32.js",
+    "static/media/2.png": "/github.io/react-basic-online-store/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/github.io/react-basic-online-store/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/1.png": "/github.io/react-basic-online-store/static/media/1.87f6c2f48f7e15ed845b.png",
+    "static/media/5.png": "/github.io/react-basic-online-store/static/media/5.a13c8fc38072a14d6633.png",
+    "static/media/7.jpg": "/github.io/react-basic-online-store/static/media/7.924da28802049413ce24.jpg",
+    "static/media/8.jpg": "/github.io/react-basic-online-store/static/media/8.ea7444de1d637462e5a4.jpg",
+    "static/media/6.jpg": "/github.io/react-basic-online-store/static/media/6.b88c564b3aabb642c6e1.jpg",
+    "static/media/4.jpg": "/github.io/react-basic-online-store/static/media/4.275988d189cc6d12312b.jpg",
+    "static/media/9.jpg": "/github.io/react-basic-online-store/static/media/9.6ddff38e3c7a64532d7f.jpg",
+    "index.html": "/github.io/react-basic-online-store/index.html",
+    "main.5023703f.css.map": "/github.io/react-basic-online-store/static/css/main.5023703f.css.map",
+    "main.10d05d32.js.map": "/github.io/react-basic-online-store/static/js/main.10d05d32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5023703f.css",
+    "static/js/main.10d05d32.js"
+  ]
+}

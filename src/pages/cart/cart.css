@@ -43,3 +43,27 @@
     cursor: pointer;
   }
    
+  @media only screen and (max-width: 800px) {
+    .cartItem {
+      width: 500px;
+      height: 250px;
+      margin: 30px;
+      padding: 10px;
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .cartItem {
+      width: 300px;
+      height: 250px;
+      margin: 30px;
+      padding: 10px;
+    }
+    .cartItem img {
+      width: 150px;
+    }
+    .cartItem .description {
+      font-size: 20px;
+    }
+  }
+  

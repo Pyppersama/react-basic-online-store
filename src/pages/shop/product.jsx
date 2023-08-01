@@ -14,7 +14,7 @@ export const Product = (props) => {
         <img src={productImage} alt='products'/>
         <div className="description">
             <p><b>{productName}</b></p>
-            <p>₦<NumberWithCommas number ={price} /></p>
+            <p>₦ <NumberWithCommas number ={price} /></p>
         </div>
         <button className="addToCartBttn"
                 onClick={() => addToCart(id)}
